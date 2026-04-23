@@ -84,7 +84,7 @@ what I'd do differently.
 Building products in public. Sharing everything.
 
 🌐 [webarc.one](https://webarc.one) ·
-🐦 [@parthfullstack](https://x.com/parthfullstack) ·
+𝕏 [@parthfullstack](https://x.com/parthfullstack) ·
 💼 [LinkedIn](https://linkedin.com/in/parthfullstack) ·
 💻 [GitHub](https://github.com/PrimeOnPC)
 
