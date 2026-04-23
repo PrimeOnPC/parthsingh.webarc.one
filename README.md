@@ -5,7 +5,7 @@
 > Everything here is shipped, not theorized.
 
 🔗 **Live at:** [webarc.one](https://webarc.one)  
-🐦 **Follow the build:** [@parthfullstack](https://x.com/parthfullstack)
+𝕏 **Follow the build:** [@parthfullstack](https://x.com/parthfullstack)
 
 ---
 
