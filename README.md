@@ -1,10 +1,10 @@
-# WebArc.One — Building Products. Learning in Public.
+# ParthSingh.WebArc.One — Building Products. Learning in Public.
 
 > A digital lab where I build real products, share detailed case 
 > studies, document the journey, and ship globally.  
 > Everything here is shipped, not theorized.
 
-🔗 **Live at:** [webarc.one](https://webarc.one)  
+🔗 **Live at:** [parthsingh.webarc.one](https://parthsingh.webarc.one)  
 𝕏 **Follow the build:** [@parthfullstack](https://x.com/parthfullstack)
 
 ---
